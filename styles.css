@@ -1,0 +1,13 @@
+.container {
+  background-color: rgb(147, 169, 192);
+  display: flex;
+  flex-flow: column wrap;
+}
+
+.imported {
+  width: 40px;
+}
+
+.box {
+  background-color: lightgrey;
+}
